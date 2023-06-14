@@ -21,7 +21,7 @@ main_menu = True
 #load images
 sun_img = pygame.image.load('Img/PNG/Tiles/sun.png')
 bg_img = pygame.image.load('Img/PNG/Tiles/fondo.jpg')
-restart_img = pygame.image.load('Img/PNG/Tiles/replay.png')
+restart_img = pygame.image.load('Img/PNG/Tiles/r.png')
 start_img = pygame.image.load('Img/PNG/Tiles/play.png')
 exit_img = pygame.image.load('Img/PNG/Tiles/exit.png')
 
