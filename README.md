@@ -34,7 +34,8 @@ El juego consiste en controlar a un personaje y superar obstáculos y enemigos p
 
 ## Capturas de pantalla
 
-Inserta aquí algunas capturas de pantalla del juego para mostrar cómo se ve y dar una idea de su apariencia.
+![image](https://github.com/patriardila/pygame/assets/74389328/dd58c53a-8b2a-4a10-80a5-42cab1f5ebb3)
+
 
 ## Créditos
 
